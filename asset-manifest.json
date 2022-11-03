@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Desafio-poke-api/static/css/main.5bbe07bd.css",
+    "main.js": "/Desafio-poke-api/static/js/main.ceab7b96.js",
+    "static/media/logo.png": "/Desafio-poke-api/static/media/logo.5bfbe67f13353820fc26.png",
+    "index.html": "/Desafio-poke-api/index.html",
+    "main.5bbe07bd.css.map": "/Desafio-poke-api/static/css/main.5bbe07bd.css.map",
+    "main.ceab7b96.js.map": "/Desafio-poke-api/static/js/main.ceab7b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bbe07bd.css",
+    "static/js/main.ceab7b96.js"
+  ]
+}
